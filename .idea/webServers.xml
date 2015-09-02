@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="128dc74e-7d11-42f5-a3ad-c3a15810433e" name="I2P" url="http://localhost">
+        <fileTransfer mountedRoot="/Volumes/Macscn&amp;bkp HD/Applications/i2p" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
